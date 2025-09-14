@@ -75231,7 +75231,7 @@ function P6e({ isOpen: e, onClose: t, navigateToSection: n }) {
             }),
             c.jsx("button", {
               onClick: () =>
-                r("https://triarchprotocol.gitbook.io/triarchprotocol/"),
+                r("https://docs.trinexusai.org"),
               className:
                 "font-readex text-[14px] text-black hover:opacity-80 transition-opacity py-[10px]",
               children: "Resource Center",
@@ -75243,7 +75243,7 @@ function P6e({ isOpen: e, onClose: t, navigateToSection: n }) {
               children: "Community",
             }),
             c.jsx(Df, {
-              to: "https://app",
+              to: "https://app.trinexusai.org",
               className:
                 "font-readex text-[14px] text-black hover:opacity-80 transition-opacity py-[10px]",
               onClick: t,
@@ -75319,7 +75319,7 @@ const wp = () => {
                   }),
                   c.jsx("button", {
                     onClick: () =>
-                      a("https://triarchprotocol.gitbook.io/triarchprotocol/"),
+                      a("https://docs.trinexusai.org"),
                     className:
                       "text-[14px] font-readex text-black hover:text-black/80 transition-colors px-[10px] py-[10px] cursor-pointer",
                     children: "Resource Center",
@@ -75331,7 +75331,7 @@ const wp = () => {
                     children: "Community",
                   }),
                   c.jsx(Df, {
-                    to: "https://app",
+                    to: "https://app.trinexusai.org",
                     className:
                       "text-[14px] font-readex text-black hover:text-black/80 transition-colors px-[10px] py-[10px] cursor-pointer",
                     children: "App",
@@ -75368,8 +75368,8 @@ const wp = () => {
     "" + new URL("../assets/footer_icon2-27633c98.svg", import.meta.url).href,
   NI = "" + new URL("../assets/dextools.png", import.meta.url).href,
   LI = [
-    { icon: k6e, href: "https://x.com/TriArchProtocol", alt: "X (Twitter)" },
-    { icon: R6e, href: "https://t.me/triarchprotocol", alt: "Telegram" },
+    { icon: k6e, href: "https://x.com/TriNexusAI", alt: "X (Twitter)" },
+    { icon: R6e, href: "https://t.me/TriNexusAI", alt: "Telegram" },
     {
       icon: "email",
       href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
